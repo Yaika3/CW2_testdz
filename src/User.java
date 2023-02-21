@@ -17,4 +17,3 @@ public class User {
     }
 >>>>>>> efb5e29 (1 commit)
 }
-//комент для комит

@@ -19,4 +19,3 @@ public class task2 {
         System.out.println("Character " + ch + " occurs " + countOccurrences(str, ch) + " times.");
     }
 }
-//комент для комит
