@@ -1,6 +1,4 @@
 public class User {
-<<<<<<< HEAD
-=======
     String name;
     int age;
 
@@ -15,6 +13,5 @@ public class User {
                 name + " "+
                  age ;
     }
->>>>>>> efb5e29 (1 commit)
 }
 //комент для комит
