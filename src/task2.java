@@ -11,7 +11,7 @@ public class task2 {
         return counter;
     }
 
-    public static void main(String[] args)
+    public static void task (String[] args)
     {
         String str = "Azkl'fnhknhAmnvzc'mkvmnA";
         char ch = 'A';
